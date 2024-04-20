@@ -1,12 +1,28 @@
 ## Hi there 👋
 
-<!--
+**Welcome to The Masscollabs Services Gaming Studios !**
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+🙋‍♀️ A short introduction - We hack games and game engine
+🌈 Contribution guidelines - Please fork our projects and raise a pull request or just ask your questions in the issues section 
+👩‍💻 Useful resources - Each project has their own documentation but we are about to write a general roadmap 
+🍿 Fun facts - Coffee and chocolate !
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## License
+
+Masscollabs Services Gaming Studios general README
+
+Copyright (C) 2024 Masscollabs Services
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
