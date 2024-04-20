@@ -3,9 +3,13 @@
 **Welcome to The Masscollabs Services Gaming Studios !**
 
 🙋‍♀️ A short introduction - We hack games and game engine
+
 🌈 Contribution guidelines - Please fork our projects and raise a pull request or just ask your questions in the issues section 
+
 👩‍💻 Useful resources - Each project has their own documentation but we are about to write a general roadmap 
+
 🍿 Fun facts - Coffee and chocolate !
+
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## License
